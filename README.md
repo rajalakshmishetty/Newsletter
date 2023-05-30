@@ -1,0 +1,2 @@
+# Newsletter
+Simple Newsletter page
